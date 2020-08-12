@@ -1,6 +1,10 @@
-title: Tailwind Jekyll Starter Kit
-description: A starter kit for using Tailwind with Jekyll
-
+title: Harper Priebe
+description: Helena Priebe
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
 exclude:
   - Gemfile
   - Gemfile.lock
